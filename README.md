@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Shaheryar Ali</h1>
+<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
-<!--
-**Shaheryar-Git/Shaheryar-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C4FF&center=true&vCenter=true&lines=Frontend+Developer;React+JS+Specialist;Building+Responsive+Websites;MERN+Stack+Learner" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning **MERN Stack**  
+- 👨‍💻 All of my projects are available on My Portfolio:(https://portfolio-react-five-gamma.vercel.app/)
+- 💬 Ask me about **React, Tailwind, Bootstrap, Material UI**  
+- 📫 How to reach me: **shaheryarsherry114@gmail.com**  
+- ⚡ Fun fact: *I turn coffee ☕ into code 💻*
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center"> 
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" /><br/>
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,vite,github,netlify,git" />
+</p>
+
