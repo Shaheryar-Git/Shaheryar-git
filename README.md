@@ -22,7 +22,6 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center"> 
   <!-- Frontend & Backend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" /><br/>
   
@@ -31,7 +30,7 @@
   
   <!-- Styling & Tools -->
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,vite,git,github,netlify" />
-</p>
+
 
 ---
 
